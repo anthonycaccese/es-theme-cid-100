@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+theme name:     CID-100
+author:         Anthony Caccese
+license:        creative commons CC-BY-NC-SA
+-->
+<theme>
+   <formatVersion>4</formatVersion>
+   <view name="system,basic,detailed,video">
+      <helpsystem name="help">
+         <pos>1 1</pos>
+      </helpsystem>
+      <image name="background" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <color>231F20</color>
+         <path>./_inc/images/space.png</path>
+         <tile>true</tile>
+         <zIndex>1</zIndex>
+      </image>
+      <image name="cid-arrow-left" extra="true">
+         <origin>0 0</origin>
+         <path>./_inc/images/arrow-left.svg</path>
+      </image>
+      <image name="cid-arrow-right" extra="true">
+         <origin>0 0</origin>
+         <path>./_inc/images/arrow-right.svg</path>
+      </image>
+      <text name="logoText">
+         <fontPath>./_inc/fonts/CodersCrux.ttf</fontPath>
+         <forceUppercase>true</forceUppercase>
+         <lineSpacing>1</lineSpacing>
+         <color>707070</color>
+         <fontSize>0.087890625</fontSize><!-- 90 -->
+      </text>
+      <!-- Top Wrapper -->
+      <image name="cid-logo" extra="true">
+         <path>./_inc/images/logo.svg</path>
+         <origin>0 0</origin>
+         <pos>0.028125 0.03515625</pos><!-- x=36 y=36 -->
+         <size>0.1171875 0.0390625</size><!-- 150 x 40 -->
+      </image>
+      <image name="cid-jp" extra="true">
+         <path>./_inc/images/jp.svg</path>
+         <origin>1 0</origin><!-- x is right relative -->
+         <pos>0.971875 0.04296875</pos><!-- x=1244(-36) y=44 -->
+         <size>0.15625 0.0224609375</size><!-- 200 x 24 -->
+      </image>
+      <image name="cid-top-border" extra="true">
+         <origin>0 0</origin>
+         <pos>0.028125 0.09765625</pos><!-- x=36 y=100 -->
+         <size>0.94375 0.0009765625</size><!-- 1208 x 1 -->
+         <color>4B4B4B</color>
+         <path>./_inc/images/space.png</path>
+         <tile>true</tile>
+      </image>
+      <!-- Bottom Wrapper -->
+      <image name="cid-bottom-border" extra="true">
+         <origin>0 0</origin>
+         <pos>0.028125 0.9013671875</pos><!-- x=36 y=923 -->
+         <size>0.94375 0.0009765625</size><!-- 1208 x 1 -->
+         <color>4B4B4B</color>
+         <path>./_inc/images/space.png</path>
+         <tile>true</tile>
+      </image>
+      <image name="cid-help" extra="true">
+         <path>./_inc/images/help.svg</path>
+         <origin>0 0</origin>
+         <pos>0.028125 0.9365234375</pos><!-- x=36 y=959 -->
+         <size>0.38203125 0.0126953125</size><!-- 489 x 13 -->
+      </image>
+   </view>
+   <view name="system">
+      <image name="system-artwork" extra="true">
+         <origin>0.5 0</origin>
+         <pos>0.5 0.322265625</pos>
+         <maxSize>0.284375 0.35546875</maxSize>
+         <path>./_inc/systems/${system.theme}-art.svg</path>
+      </image>
+      <carousel name="systemcarousel">
+         <origin>0 0</origin>
+         <pos>0 0.7353515625</pos>
+         <size>1 0.0380859375</size>
+         <type>horizontal</type>
+         <color>231F20</color>
+         <logoScale>1</logoScale>
+         <logoSize>1 0.0390625</logoSize>
+         <maxLogoCount>1</maxLogoCount>
+      </carousel>
+      <text name="systemInfo">
+         <pos>1 1</pos>
+      </text>
+      <image name="cid-arrow-left" extra="true">
+         <pos>0.18828125 0.474609375</pos>
+         <size>0.0171875 0.0380859375</size><!-- 22x39 -->
+      </image>
+      <image name="cid-arrow-right" extra="true">
+         <pos>0.78828125 0.474609375</pos>
+         <size>0.0171875 0.0380859375</size><!-- 22x39 -->
+      </image>
+   </view>
+   <view name="basic,detailed,video">
+      <!-- System Logo Navigation -->
+      <image name="cid-arrow-left" extra="true">
+         <pos>0.046875 0.16</pos><!-- x=60 y=169 -->
+      </image>
+      <text name="logoText">
+         <origin>.5 0</origin>
+         <pos>0.5 0.125</pos><!-- y=138 -->
+         <size>0.78125 0.107421875</size><!-- 1000x110 -->
+         <alignment>center</alignment>
+      </text>
+      <image name="cid-arrow-right" extra="true">
+         <origin>1 0</origin>
+         <pos>0.953125 0.16</pos><!-- x=1220(-60) y=169 -->
+      </image>
+      <!-- Game Navigation -->
+      <image name="cid-gamelist-border" extra="true">
+         <path>./_inc/images/spacer.png</path>
+         <origin>0 0</origin>
+         <pos>0.046875 0.25</pos>
+         <size>0.90625 0.0009765625</size><!-- 1160 x 1 -->
+         <color>4B4B4B</color>
+         <path>./_inc/images/space.png</path>
+         <tile>true</tile>
+      </image>
+      <textlist name="gamelist">
+         <pos>0.046875 0.279296875</pos><!-- 60, 286 -->
+         <size>0.4453125 0.576171875</size><!-- 570 x 590 -->
+         <selectorColor>D54901ff</selectorColor>
+         <selectedColor>FFFFFF</selectedColor>
+         <primaryColor>707070</primaryColor>
+         <secondaryColor>cccccc</secondaryColor>
+         <fontPath>./_inc/fonts/VAGRundschriftD-Lig.ttf</fontPath>
+         <fontSize>0.048828125</fontSize><!-- 42 -->
+         <forceUppercase>1</forceUppercase>
+         <alignment>left</alignment>
+         <horizontalMargin>0.009375</horizontalMargin><!-- 12 -->
+      </textlist>
+   </view>
+   <view name="basic">
+      <image name="system-artwork" extra="true">
+         <origin>0.5 0.5</origin>
+         <pos>0.73046875 0.56640625</pos>
+         <maxSize>0.284375 0.35546875</maxSize>
+         <path>./_inc/systems/${system.theme}-art.svg</path>
+      </image>
+   </view>
+   <view name="detailed,video">
+      <!-- Game Metadata -->
+      <text name="md_lbl_rating,md_lbl_developer,md_developer,md_lbl_publisher,md_publisher,md_lbl_playcount,md_playcount,md_lbl_lastplayed,md_lbl_players,md_players,md_lbl_releasedate,md_lbl_genre,md_genre,md_description">
+         <pos>1 1</pos>
+      </text>
+      <datetime name="md_lastplayed,md_releasedate">
+         <pos>1 1</pos>
+      </datetime>
+      <rating name="md_rating">
+         <pos>1 1</pos>
+      </rating>
+      <text name="md_name">
+         <origin>0 0</origin>
+         <pos>0.5078125 0.279296875</pos><!-- 650, 286 -->
+         <color>ffffff</color>
+         <fontPath>./_inc/fonts/CodersCrux.ttf</fontPath>
+         <alignment>left</alignment>
+         <size>0.4453125 0.068359375</size><!-- 570 x 70 -->
+         <fontSize>0.068359375</fontSize><!-- 70 -->
+         <lineSpacing>1</lineSpacing>
+      </text>
+      <image name="media_mask" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0.009765625</pos>
+         <size>1 1</size>
+         <path>./_inc/images/media-mask.svg</path>
+         <zIndex>3</zIndex>
+      </image>
+      <!-- Game Artwork -->
+      <image name="md_image">
+         <origin>0 0</origin>
+         <!-- x=650 y=456 --><pos>0.5078125 0.4453125</pos>
+         <!-- 570 x 420 --><size>0.4453125 0</size>
+         <zIndex>2</zIndex>
+      </image>
+   </view>
+   <view name="video">
+      <image name="md_marquee">
+         <origin>0 0</origin>
+         <pos>1 1</pos>
+      </image>
+      <video name="md_video">
+         <origin>0 0</origin>
+         <!-- x=650 y=456 --><pos>0.5078125 0.4453125</pos>
+         <!-- 570 x 420 --><size>0.4453125 0</size>
+         <zIndex>2</zIndex>
+         <delay>0.0</delay>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+      </video>
+   </view>
+</theme>
