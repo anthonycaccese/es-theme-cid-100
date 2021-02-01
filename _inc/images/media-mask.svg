@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg width="1280" height="1024" viewBox="0 0 1280 1024" xmlns="http://www.w3.org/2000/svg">
-  <path d="M-4110,1024V456h650V876h570V456h60v568Zm0-568V0h1280V456Z" transform="translate(4110)" style="fill: rgb(35, 31, 32);"/>
+<svg id="Group_25" data-name="Group 25" xmlns="http://www.w3.org/2000/svg" width="1280" height="1024" viewBox="0 0 1280 1024">
+  <path id="Union_1" data-name="Union 1" d="M-5460,1024V286h690V684h530V286h60v738Zm0-738V0h1280V286Z" transform="translate(5460)" fill="#231f20"/>
+  <path id="Union_2" data-name="Union 2" d="M-5460,410v-6h542v6Zm536-6V6h-530V404h-6V0h542V404Z" transform="translate(6144 280)" fill="#312f2f"/>
 </svg>

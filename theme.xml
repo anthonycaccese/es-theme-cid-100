@@ -151,49 +151,88 @@ license:        creative commons CC-BY-NC-SA
       <!-- Game Metadata -->
       <text name="md_lbl_rating,md_lbl_developer,md_developer,md_lbl_publisher,md_publisher,md_lbl_playcount,md_playcount,md_lbl_lastplayed,md_lbl_players,md_players,md_lbl_releasedate,md_lbl_genre,md_genre,md_description">
          <pos>1 1</pos>
+         <color>707070</color>
+         <fontSize>0.0234375</fontSize><!-- 24 -->
+         <forceUppercase>true</forceUppercase>
+         <lineSpacing>1</lineSpacing>
+         <size>0 0.0234375</size>
       </text>
       <datetime name="md_lastplayed,md_releasedate">
          <pos>1 1</pos>
+         <color>707070</color>
+         <fontSize>0.0234375</fontSize><!-- 24 -->
+         <forceUppercase>true</forceUppercase>
+         <lineSpacing>1</lineSpacing>
+         <size>0 0.0234375</size>
       </datetime>
       <rating name="md_rating">
          <pos>1 1</pos>
+         <color>707070</color>
+         <size>0 0.0234375</size>
       </rating>
-      <text name="md_name">
-         <origin>0 0</origin>
-         <pos>0.5078125 0.279296875</pos><!-- 650, 286 -->
-         <color>ffffff</color>
-         <fontPath>./_inc/fonts/CodersCrux.ttf</fontPath>
-         <alignment>left</alignment>
-         <size>0.4453125 0.068359375</size><!-- 570 x 70 -->
-         <fontSize>0.068359375</fontSize><!-- 70 -->
-         <lineSpacing>1</lineSpacing>
+      <text name="md_lbl_genre">
+         <pos>0.546875 0.69140625</pos>
       </text>
-      <image name="media_mask" extra="true">
-         <origin>0 0</origin>
-         <pos>0 0.009765625</pos>
-         <size>1 1</size>
-         <path>./_inc/images/media-mask.svg</path>
-         <zIndex>3</zIndex>
-      </image>
-      <!-- Game Artwork -->
+      <text name="md_genre">
+         <pos>0.6171875 0.69140625</pos>
+      </text>
+      <text name="md_lbl_players">
+         <pos>0.546875 0.724609375</pos>
+      </text>
+      <text name="md_players">
+         <pos>0.6171875 0.724609375</pos>
+      </text>
+      <rating name="md_rating">
+         <pos>0.78515625 0.69140625</pos>
+         <color>ffffff</color>
+      </rating>
+      <text name="md_lbl_releasedate">
+         <pos>0.78515625 0.724609375</pos>
+      </text>
+      <datetime name="md_releasedate">
+         <pos>0.86328125 0.724609375</pos>
+      </datetime>
+      <text name="md_description">
+         <pos>0.546875 0.76953125</pos>
+         <size>0.3984375 0.09765625</size>
+         <forceUppercase>false</forceUppercase>
+         <lineSpacing>1.25</lineSpacing>
+      </text>
       <image name="md_image">
-         <origin>0 0</origin>
-         <!-- x=650 y=456 --><pos>0.5078125 0.4453125</pos>
-         <!-- 570 x 420 --><size>0.4453125 0</size>
+         <origin>.5 .5</origin>
+         <!-- x=956 y=485 --><pos>0.746875 0.4736328125</pos>
+         <!-- 530 x 398 --><maxSize>0.4140625 0.388671875</maxSize>
          <zIndex>2</zIndex>
       </image>
    </view>
    <view name="video">
+      <image name="background" extra="true">
+         <color>000000</color>
+         <zIndex>1</zIndex>
+      </image>
+      <image name="media_mask" extra="true">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>./_inc/images/media-mask.svg</path>
+         <zIndex>3</zIndex>
+      </image>
       <image name="md_marquee">
          <origin>0 0</origin>
          <pos>1 1</pos>
       </image>
+      <image name="md_image">
+         <origin>0 1</origin>
+         <!-- x=690 y=684 --><pos>0.5390625 0.66796875</pos>
+         <!-- 150 x 150 --><maxSize>0.15625 0.1953125</maxSize>
+         <zIndex>3</zIndex>
+      </image>
       <video name="md_video">
-         <origin>0 0</origin>
-         <!-- x=650 y=456 --><pos>0.5078125 0.4453125</pos>
-         <!-- 570 x 420 --><size>0.4453125 0</size>
+         <origin>.5 .5</origin>
+         <!-- x=956 y=485 --><pos>0.746875 0.4736328125</pos>
+         <!-- 530 x 398 --><maxSize>0.4140625 0.388671875</maxSize>
          <zIndex>2</zIndex>
-         <delay>0.0</delay>
+         <delay>0.2</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
       </video>
    </view>
