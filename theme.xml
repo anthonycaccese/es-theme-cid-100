@@ -198,6 +198,8 @@ license:        creative commons CC-BY-NC-SA
          <forceUppercase>false</forceUppercase>
          <lineSpacing>1.25</lineSpacing>
       </text>
+   </view>
+   <view name="detailed">
       <image name="md_image">
          <origin>.5 .5</origin>
          <!-- x=956 y=485 --><pos>0.746875 0.4736328125</pos>
