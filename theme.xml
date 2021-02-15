@@ -188,7 +188,7 @@ license:        creative commons CC-BY-NC-SA
       <!--<rating name="md_rating">
          <pos>0.78515625 0.69140625</pos>
          <color>ffffff</color>
-      </rating>
+      </rating>-->
       <text name="md_lbl_releasedate">
          <pos>0.78515625 0.724609375</pos>
       </text>
