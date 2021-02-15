@@ -6,6 +6,7 @@ license:        creative commons CC-BY-NC-SA
 -->
 <theme>
    <formatVersion>4</formatVersion>
+   <include>./_inc/systems/${system.theme}.xml</include>
    <view name="system,basic,detailed,video">
       <helpsystem name="help">
          <pos>1 1</pos>
@@ -33,6 +34,7 @@ license:        creative commons CC-BY-NC-SA
          <lineSpacing>1</lineSpacing>
          <color>707070</color>
          <fontSize>0.087890625</fontSize><!-- 90 -->
+         <text>${systemName}</text>
       </text>
       <!-- Top Wrapper -->
       <image name="cid-logo" extra="true">
@@ -133,7 +135,8 @@ license:        creative commons CC-BY-NC-SA
          <primaryColor>707070</primaryColor>
          <secondaryColor>cccccc</secondaryColor>
          <fontPath>./_inc/fonts/VAGRundschriftD-Lig.ttf</fontPath>
-         <fontSize>0.048828125</fontSize><!-- 42 -->
+         <fontSize>0.037109375</fontSize><!-- 38 -->
+         <lineSpacing>1.82</lineSpacing>
          <forceUppercase>1</forceUppercase>
          <alignment>left</alignment>
          <horizontalMargin>0.009375</horizontalMargin><!-- 12 -->
@@ -182,7 +185,7 @@ license:        creative commons CC-BY-NC-SA
       <text name="md_players">
          <pos>0.6171875 0.724609375</pos>
       </text>
-      <rating name="md_rating">
+      <!--<rating name="md_rating">
          <pos>0.78515625 0.69140625</pos>
          <color>ffffff</color>
       </rating>
