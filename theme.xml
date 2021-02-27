@@ -5,8 +5,7 @@ author:         Anthony Caccese
 license:        creative commons CC-BY-NC-SA
 -->
 <theme>
-   <formatVersion>6</formatVersion>
-   <resolution>1280 1024</resolution>
+   <formatVersion>4</formatVersion>
    <include>./_inc/systems/${system.theme}.xml</include>
    <view name="system,basic,detailed,video">
       <helpsystem name="help">
@@ -214,32 +213,32 @@ license:        creative commons CC-BY-NC-SA
    <view name="video">
       <image name="background" extra="true">
          <color>000000</color>
-         <zIndex>0</zIndex>
+         <zIndex>1</zIndex>
       </image>
       <image name="media_mask" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
          <path>./_inc/images/media-mask.svg</path>
-         <zIndex>1</zIndex>
-      </image>
-      <video name="md_video">
-         <origin>.5 .5</origin>
-         <pos>956 485</pos>
-         <maxSize>530 398</maxSize>
-         <zIndex>2</zIndex>
-         <delay>0.2</delay>
-         <showSnapshotNoVideo>true</showSnapshotNoVideo>
-      </video>
-      <image name="md_image">
-         <origin>0 1</origin>
-         <!-- x=690 y=684 --><pos>0.5390625 0.66796875</pos>
-         <!-- 150 x 150 --><maxSize>0.15625 0.1953125</maxSize>
-         <zIndex>10</zIndex>
+         <zIndex>3</zIndex>
       </image>
       <image name="md_marquee">
          <origin>0 0</origin>
          <pos>1 1</pos>
       </image>
+      <image name="md_image">
+         <origin>0 1</origin>
+         <!-- x=690 y=684 --><pos>0.5390625 0.66796875</pos>
+         <!-- 150 x 150 --><maxSize>0.15625 0.1953125</maxSize>
+         <zIndex>3</zIndex>
+      </image>
+      <video name="md_video">
+         <origin>.5 .5</origin>
+         <!-- x=956 y=485 --><pos>0.746875 0.4736328125</pos>
+         <!-- 530 x 398 --><maxSize>0.4140625 0.388671875</maxSize>
+         <zIndex>2</zIndex>
+         <delay>0.2</delay>
+         <showSnapshotNoVideo>true</showSnapshotNoVideo>
+      </video>
    </view>
 </theme>
