@@ -5,7 +5,8 @@ author:         Anthony Caccese
 license:        creative commons CC-BY-NC-SA
 -->
 <theme>
-   <formatVersion>4</formatVersion>
+   <formatVersion>6</formatVersion>
+   <resolution>1280 1024</resolution>
    <include>./_inc/systems/${system.theme}.xml</include>
    <view name="system,basic,detailed,video">
       <helpsystem name="help">
@@ -224,8 +225,8 @@ license:        creative commons CC-BY-NC-SA
       </image>
       <video name="md_video">
          <origin>.5 .5</origin>
-         <!-- x=956 y=485 --><pos>0.746875 0.4736328125</pos>
-         <!-- 530 x 398 --><maxSize>0.4140625 0.388671875</maxSize>
+         <pos>956 485</pos>
+         <maxSize>530 398</maxSize>
          <zIndex>2</zIndex>
          <delay>0.2</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
