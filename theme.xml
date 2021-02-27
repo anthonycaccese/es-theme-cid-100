@@ -213,24 +213,14 @@ license:        creative commons CC-BY-NC-SA
    <view name="video">
       <image name="background" extra="true">
          <color>000000</color>
-         <zIndex>1</zIndex>
+         <zIndex>0</zIndex>
       </image>
       <image name="media_mask" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
          <size>1 1</size>
          <path>./_inc/images/media-mask.svg</path>
-         <zIndex>3</zIndex>
-      </image>
-      <image name="md_marquee">
-         <origin>0 0</origin>
-         <pos>1 1</pos>
-      </image>
-      <image name="md_image">
-         <origin>0 1</origin>
-         <!-- x=690 y=684 --><pos>0.5390625 0.66796875</pos>
-         <!-- 150 x 150 --><maxSize>0.15625 0.1953125</maxSize>
-         <zIndex>3</zIndex>
+         <zIndex>1</zIndex>
       </image>
       <video name="md_video">
          <origin>.5 .5</origin>
@@ -240,5 +230,15 @@ license:        creative commons CC-BY-NC-SA
          <delay>0.2</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
       </video>
+      <image name="md_image">
+         <origin>0 1</origin>
+         <!-- x=690 y=684 --><pos>0.5390625 0.66796875</pos>
+         <!-- 150 x 150 --><maxSize>0.15625 0.1953125</maxSize>
+         <zIndex>10</zIndex>
+      </image>
+      <image name="md_marquee">
+         <origin>0 0</origin>
+         <pos>1 1</pos>
+      </image>
    </view>
 </theme>
