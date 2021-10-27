@@ -1,88 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg">
-  <g id="Ebene_2" data-name="Ebene 2">
-    <g id="Ebene_13" data-name="Ebene 13">
-      <polygon fill="#e3ddd6" points="610 20 610 0 0 0 0 20 0 20 0 154.4 0 199.2 0 244 0 300 10 300 10 310 600 310 600 300 610 300 610 244 610 199.2 610 154.4 610 20 610 20"/>
-      <polygon class="cls-2" points="10 90 10 270 10 280 20 280 590 280 600 280 600 270 600 90 10 90" style="fill: rgb(209, 209, 209);"/>
-      <rect fill="#646464" x="520" y="40" width="20" height="10"/>
-      <rect fill="#c9c2bc" y="60" width="610" height="10"/>
-      <rect fill="#c9c2bc" y="40" width="610" height="10"/>
-      <rect fill="#c9c2bc" y="20" width="610" height="10"/>
-      <rect fill="#ffdc00" x="180" y="40" width="40" height="10"/>
-      <rect fill="#76b4ff" x="180" y="50" width="40" height="10"/>
-      <rect fill="#e73635" x="180" y="30" width="40" height="10"/>
-      <rect fill="#ffffff" x="60" y="40" width="100" height="10"/>
-      <rect fill="#ffffff" x="40" y="40" width="10" height="10"/>
-      <rect fill="#ffffff" x="230" y="40" width="20" height="10"/>
-      <rect fill="#7d7d7d" x="490" y="40" width="40" height="10"/>
-      <rect fill="#890000" x="520" y="40" width="10" height="10"/>
-      <polygon points="500 140 500 120 30 120 30 180 20 180 20 240 100 240 100 270 350 270 350 240 470 240 470 210 500 210 500 180 510 180 510 140 500 140" style="fill: rgb(185, 185, 185);"/>
-      <rect class="cls-11" x="100" y="240" width="250" height="20" transform="translate(450 500) rotate(-180)"/>
-      <rect class="cls-11" x="30" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="60" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="90" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="120" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="150" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="180" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="210" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="240" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="270" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="300" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="330" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="360" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="390" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="420" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="450" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="480" y="120" width="20" height="20"/>
-      <rect class="cls-11" x="20" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="20" y="210" width="20" height="20"/>
-      <rect class="cls-11" x="50" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="80" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="110" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="140" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="170" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="200" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="230" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="260" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="290" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="320" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="350" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="380" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="410" y="180" width="20" height="20"/>
-      <rect class="cls-11" x="30" y="150" width="40" height="20"/>
-      <rect class="cls-11" x="80" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="110" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="140" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="170" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="200" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="230" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="260" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="290" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="320" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="350" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="380" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="410" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="440" y="150" width="20" height="20"/>
-      <rect class="cls-11" x="470" y="150" width="40" height="20"/>
-      <rect class="cls-11" x="370" y="210" width="40" height="20" transform="translate(780 440) rotate(-180)"/>
-      <rect class="cls-11" x="420" y="210" width="20" height="20" transform="translate(860 440) rotate(-180)"/>
-      <rect class="cls-11" x="450" y="210" width="20" height="20" transform="translate(920 440) rotate(-180)"/>
-      <rect class="cls-11" x="340" y="210" width="20" height="20" transform="translate(700 440) rotate(-180)"/>
-      <rect class="cls-11" x="310" y="210" width="20" height="20" transform="translate(640 440) rotate(-180)"/>
-      <rect class="cls-11" x="280" y="210" width="20" height="20" transform="translate(580 440) rotate(-180)"/>
-      <rect class="cls-11" x="250" y="210" width="20" height="20" transform="translate(520 440) rotate(-180)"/>
-      <rect class="cls-11" x="220" y="210" width="20" height="20" transform="translate(460 440) rotate(-180)"/>
-      <rect class="cls-11" x="190" y="210" width="20" height="20" transform="translate(400 440) rotate(-180)"/>
-      <rect class="cls-11" x="160" y="210" width="20" height="20" transform="translate(340 440) rotate(-180)"/>
-      <rect class="cls-11" x="130" y="210" width="20" height="20" transform="translate(280 440) rotate(-180)"/>
-      <rect class="cls-11" x="100" y="210" width="20" height="20" transform="translate(220 440) rotate(-180)"/>
-      <rect class="cls-11" x="50" y="210" width="40" height="20" transform="translate(140 440) rotate(-180)"/>
-      <rect class="cls-11" x="440" y="180" width="60" height="20"/>
-      <rect fill="#afafaf" x="530" y="120" width="40" height="120"/>
-      <rect fill="#646464" x="530" y="140" width="40" height="10"/>
-      <rect fill="#646464" x="530" y="170" width="40" height="10"/>
-      <rect fill="#646464" x="530" y="200" width="40" height="10"/>
-      <rect fill="#646464" x="530" y="230" width="40" height="10"/>
-    </g>
-  </g>
+<svg version="1.1" id="Ebene_1" x="0px" y="0px" style="enable-background:new 0 0 610 310;" xmlns="http://www.w3.org/2000/svg">
+  <polygon fill="#E3DDD6" points="610 20 610 0 0 0 0 20 0 20 0 154.4 0 199.2 0 244 0 300 10 300 10 310 600 310 600 300 610 300 610 244 610 199.2 610 154.4 610 20"/>
+  <polygon fill="#C9C2BC" points="10 90 10 270 10 280 20 280 590 280 600 280 600 270 600 90"/>
+  <rect x="520" y="40" fill="#646464" width="20" height="10"/>
+  <rect y="60" fill="#C9C2BC" width="610" height="10"/>
+  <rect y="40" fill="#C9C2BC" width="610" height="10"/>
+  <rect y="20" fill="#C9C2BC" width="610" height="10"/>
+  <rect x="180" y="40" fill="#FFDC00" width="40" height="10"/>
+  <rect x="180" y="50" fill="#76B4FF" width="40" height="10"/>
+  <rect x="180" y="30" fill="#E73635" width="40" height="10"/>
+  <rect x="60" y="40" fill="#FFFFFF" width="100" height="10"/>
+  <rect x="40" y="40" fill="#FFFFFF" width="10" height="10"/>
+  <rect x="230" y="40" fill="#FFFFFF" width="20" height="10"/>
+  <rect x="490" y="40" fill="#7D7D7D" width="40" height="10"/>
+  <rect x="520" y="40" fill="#890000" width="10" height="10"/>
+  <polygon fill="#646464" points="500 140 500 120 30 120 30 180 20 180 20 240 100 240 100 270 350 270 350 240 470 240 470 210 500 210 500 180 510 180 510 140"/>
+  <rect x="100" y="240" fill="#7D7D7D" width="250" height="20"/>
+  <rect x="30" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="60" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="90" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="120" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="150" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="180" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="210" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="240" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="270" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="300" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="330" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="360" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="390" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="420" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="450" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="480" y="120" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="20" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="20" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="50" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="80" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="110" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="140" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="170" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="200" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="230" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="260" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="290" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="320" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="350" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="380" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="410" y="180" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="30" y="150" fill="#7D7D7D" width="40" height="20"/>
+  <rect x="80" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="110" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="140" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="170" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="200" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="230" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="260" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="290" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="320" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="350" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="380" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="410" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="440" y="150" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="470" y="150" fill="#7D7D7D" width="40" height="20"/>
+  <rect x="370" y="210" fill="#7D7D7D" width="40" height="20"/>
+  <rect x="420" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="450" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="340" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="310" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="280" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="250" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="220" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="190" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="160" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="130" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="100" y="210" fill="#7D7D7D" width="20" height="20"/>
+  <rect x="50" y="210" fill="#7D7D7D" width="40" height="20"/>
+  <rect x="440" y="180" fill="#7D7D7D" width="60" height="20"/>
+  <rect x="530" y="120" fill="#AFAFAF" width="40" height="120"/>
+  <rect x="530" y="140" fill="#646464" width="40" height="10"/>
+  <rect x="530" y="170" fill="#646464" width="40" height="10"/>
+  <rect x="530" y="200" fill="#646464" width="40" height="10"/>
+  <rect x="530" y="230" fill="#646464" width="40" height="10"/>
 </svg>

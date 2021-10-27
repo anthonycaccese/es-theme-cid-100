@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 320"><g id="Ebene_2" data-name="Ebene 2"><g id="Ebene_4" data-name="Ebene 4"><rect fill="#dcdcdc" y="70" width="570" height="250"/><rect fill="#646464" x="20" y="110" width="530" height="190"/><rect fill="#afafaf" x="190" y="110" width="150" height="30"/><rect fill="#afafaf" x="190" y="150" width="150" height="20"/><rect fill="#afafaf" x="190" y="180" width="150" height="20"/><rect fill="#afafaf" x="190" y="290" width="150" height="10"/><rect fill="#afafaf" x="190" y="220" width="150" height="50"/><polygon fill="#969696" points="150 200 120 200 120 170 80 170 80 200 50 200 50 240 80 240 80 270 120 270 120 240 150 240 150 200"/><rect fill="#646464" x="210" y="240" width="30" height="10"/><rect fill="#646464" x="290" y="240" width="30" height="10"/><rect fill="#afafaf" x="370" y="210" width="70" height="70"/><rect fill="#afafaf" x="450" y="210" width="70" height="70"/><polygon fill="#dc1400" points="420 230 420 220 410 220 400 220 390 220 390 230 380 230 380 240 380 250 380 260 390 260 390 270 400 270 410 270 420 270 420 260 430 260 430 250 430 240 430 230 420 230"/><polygon fill="#dc1400" points="500 230 500 220 490 220 480 220 470 220 470 230 460 230 460 240 460 250 460 260 470 260 470 270 480 270 490 270 500 270 500 260 510 260 510 250 510 240 510 230 500 230"/><rect fill="#afafaf" x="190" y="200" width="150" height="10"/><rect fill="#dc1400" x="200" y="190" width="130" height="10"/><rect fill="#afafaf" x="380" y="140" width="130" height="30"/><rect fill="#dc1400" x="390" y="150" width="110" height="10"/><rect fill="#646464" x="90" y="210" width="20" height="20"/><polygon fill="#dcdcdc" points="160 0 160 20 160 40 150 40 150 70 170 70 170 50 180 50 180 20 180 0 160 0"/><rect fill="#afafaf" x="150" y="60" width="20" height="10"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <rect fill="#dcdcdc" y="70" width="570" height="250"/>
+  <rect fill="#646464" x="20" y="110" width="530" height="190"/>
+  <rect fill="#afafaf" x="190" y="110" width="150" height="30"/>
+  <rect fill="#afafaf" x="190" y="150" width="150" height="20"/>
+  <rect fill="#afafaf" x="190" y="180" width="150" height="20"/>
+  <rect fill="#afafaf" x="190" y="290" width="150" height="10"/>
+  <rect fill="#afafaf" x="190" y="220" width="150" height="50"/>
+  <polygon fill="#969696" points="150 200 120 200 120 170 80 170 80 200 50 200 50 240 80 240 80 270 120 270 120 240 150 240 150 200"/>
+  <rect fill="#646464" x="210" y="240" width="30" height="10"/>
+  <rect fill="#646464" x="290" y="240" width="30" height="10"/>
+  <rect fill="#afafaf" x="370" y="210" width="70" height="70"/>
+  <rect fill="#afafaf" x="450" y="210" width="70" height="70"/>
+  <polygon fill="#dc1400" points="420 230 420 220 410 220 400 220 390 220 390 230 380 230 380 240 380 250 380 260 390 260 390 270 400 270 410 270 420 270 420 260 430 260 430 250 430 240 430 230 420 230"/>
+  <polygon fill="#dc1400" points="500 230 500 220 490 220 480 220 470 220 470 230 460 230 460 240 460 250 460 260 470 260 470 270 480 270 490 270 500 270 500 260 510 260 510 250 510 240 510 230 500 230"/>
+  <rect fill="#afafaf" x="190" y="200" width="150" height="10"/>
+  <rect fill="#dc1400" x="200" y="190" width="130" height="10"/>
+  <rect fill="#afafaf" x="380" y="140" width="130" height="30"/>
+  <rect fill="#dc1400" x="390" y="150" width="110" height="10"/>
+  <rect fill="#646464" x="90" y="210" width="20" height="20"/>
+  <polygon fill="#dcdcdc" points="160 0 160 20 160 40 150 40 150 70 170 70 170 50 180 50 180 20 180 0 160 0"/>
+  <rect fill="#afafaf" x="150" y="60" width="20" height="10"/>
+</svg>

@@ -74,10 +74,18 @@ license:        creative commons CC-BY-NC-SA
       </image>
    </view>
    <view name="system">
+      <!--<image name="system-artwork-background" extra="true">
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.46875</pos>
+         <maxSize>0.3125 0.390625</maxSize>
+         <color>ff0000</color>
+         <path>./_inc/images/space.png</path>
+         <tile>true</tile>
+      </image>-->
       <image name="system-artwork" extra="true">
-         <origin>0.5 0</origin>
-         <pos>0.5 0.322265625</pos>
-         <maxSize>0.284375 0.35546875</maxSize>
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.46875</pos><!-- 480 -->
+         <maxSize>0.3125 0.390625</maxSize><!-- 400x400 -->
          <path>./_inc/systems/${system.theme}-art.svg</path>
       </image>
       <carousel name="systemcarousel">
